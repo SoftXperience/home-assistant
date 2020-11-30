@@ -3,10 +3,9 @@
         "info": {
             "arch": "Architektura procesora",
             "chassis": "Wersja komputera",
-            "dev": "Wersja deweloperska",
+            "dev": "Wersja rozwojowa",
             "docker": "Docker",
             "docker_version": "Wersja Dockera",
-            "hassio": "Supervisor",
             "host_os": "System operacyjny HA",
             "installation_type": "Typ instalacji",
             "os_name": "Rodzina systemu operacyjnego",
